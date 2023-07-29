@@ -113,8 +113,5 @@ python main.py
 yaml
 Copy code
 
-If you find a missing feature or a bug, please open an issue on the GitHub repository or submit a pull request directly. We welcome your contributions!
 
 ---
-
-I hope this README file helps you to successfully upload your project to GitHub. Good luck!
