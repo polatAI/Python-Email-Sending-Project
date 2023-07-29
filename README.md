@@ -25,15 +25,14 @@ Projenin çalışması için aşağıdaki gereksinimlere ihtiyacınız olacak:
 
 git clone https://github.com/KULLANICI_ADINIZ/eposta-gonderme-projesi.git
 
-markdown
-Copy code
+
 
 2. Proje dizinine gidin:
 
 cd eposta-gonderme-projesi
 
-markdown
-Copy code
+
+
 
 3. Yapılandırma dosyanızı ekleyin:
 
@@ -45,15 +44,13 @@ Projeyi çalıştırmadan önce `config.json` dosyasını düzenleyin ve gerekli
 "recipient_email": "alici@ornek.com"
 }
 
-markdown
-Copy code
+
 
 4. Proje dosyasını çalıştırın:
 
 python main.py
 
-yaml
-Copy code
+
 
 
 ---
@@ -83,15 +80,13 @@ You will need the following prerequisites for the project to work:
 
 git clone https://github.com/YOUR_USERNAME/email-sending-project.git
 
-csharp
-Copy code
+
 
 2. Change into the project directory:
 
 cd email-sending-project
 
-arduino
-Copy code
+
 
 3. Add your configuration file:
 
@@ -103,15 +98,13 @@ Before running the project, edit the `config.json` file and enter your email acc
 "recipient_email": "recipient@example.com"
 }
 
-markdown
-Copy code
+
 
 4. Run the project file:
 
 python main.py
 
-yaml
-Copy code
+
 
 
 ---
