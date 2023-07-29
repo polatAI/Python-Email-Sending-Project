@@ -56,14 +56,6 @@ yaml
 Copy code
 
 
-## 🤝 Katkıda Bulunma
-
-Eksik bir özellik veya hata bulduysanız, lütfen GitHub deposuna bir konu açın veya doğrudan bir pull talebi gönderin. Katkılarınızı memnuniyetle karşılıyoruz!
-
----
-
-Umarım bu README dosyası size yardımcı olur ve projenizi GitHub sayfanıza başarıyla yüklersiniz. Başarılar! 😊
-
 ---
 
 # 📧 Python Email Sending Project 📧
@@ -120,8 +112,6 @@ python main.py
 
 yaml
 Copy code
-
-## 🤝 Contributing
 
 If you find a missing feature or a bug, please open an issue on the GitHub repository or submit a pull request directly. We welcome your contributions!
 
